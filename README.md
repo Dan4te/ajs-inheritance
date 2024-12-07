@@ -1,4 +1,4 @@
-![Build status](https://ci.appveyor.com/api/projects/status/yxn45vahccnsdcc4?svg=true)](https://ci.appveyor.com/project/Dan4te/ajs-inheritance)
+![Build status](https://ci.appveyor.com/api/projects/status/yxn45vahccnsdcc4?svg=true)
 
 
 # Домашнее задание к лекции «Классы, наследование»
